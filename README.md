@@ -93,3 +93,5 @@ I build **reliable, production-minded AI systems** end to end — from model tra
 - 🤗 **Hugging Face:** [huggingface.co/Stoic1344223](https://huggingface.co/Stoic1344223)
 
 <p align="center"><i>Open to AI/ML engineering roles and collaborations.</i></p>
+
+<!-- Profile README for github.com/Antonini28 -->
