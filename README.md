@@ -16,7 +16,7 @@
 
 ---
 
-## 🚀 About Me
+## 🚀 About  Me
 
 I build **reliable, production-minded AI systems** end to end — from model training and evaluation to deployed web applications.
 
